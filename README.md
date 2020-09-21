@@ -4,15 +4,19 @@
 I work at the intersection between design and development. 
 My favorite area is working with music in one way or another.
 
-👨‍💻  I am currently diving deep into all the possiblities of React.js 👨‍💻
+👨‍💻  - I am currently diving deep into all the possiblities of React.js
 
 ⚡ Fun facts:
    * I am a musician
-   * I love Frank Ocrean
+   * I love Frank Ocean
    * I have two cats
    * I am a runner
    
-📫 Send me an email at diegoguerreroalexander@gmail.com
+   
+📻 - Listen to my band [here](https://supersilverhaze.bandcamp.com/album/mugre-pelos-sangre-muerte-ep)   
+
+📫 - Send me an email at diegoguerreroalexander@gmail.com
+
    
    
 <!--
