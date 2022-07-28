@@ -9,11 +9,13 @@ My favorite area is working with music in one way or another.
 ⚡ Fun facts:
    * I am a musician
    * I love Frank Ocean
-   * I have two cats
+   * I have a cat
    * I am a runner
    
    
-📻 - Listen to my band [here](https://supersilverhaze.bandcamp.com/album/mugre-pelos-sangre-muerte-ep)   
+📻 - Listen to my solo project [here](https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg?si=aIXvB8WmTrK4qYvgJTJ5Xw)   
+
+🎸 - Listen to my band [here](https://open.spotify.com/artist/4cPXaZbAOwMwldGjjP8hgw?si=9Kv4PFGqTcaJnzpoJKLjRA)   
 
 📫 - Send me an email at diegoguerreroalexander@gmail.com
 
