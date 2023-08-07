@@ -4,18 +4,16 @@
 I work at the intersection between design and development. 
 My favorite area is working with music in one way or another.
 
-👨‍💻  - I am currently diving deep into all the possiblities of React.js
+👨‍💻  - I am currently diving deep into all the possiblities of Next.js with Shopify and Sanity
 
 ⚡ Fun facts:
-   * I am a musician
-   * I love Frank Ocean
+   * I am an artist/producer/composer, and I put out music as dieglitter
+   * I love Stereolab
    * I have a cat
    * I am a runner
    
    
-📻 - Listen to my solo project [here](https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg?si=aIXvB8WmTrK4qYvgJTJ5Xw)   
-
-🎸 - Listen to my band [here](https://open.spotify.com/artist/4cPXaZbAOwMwldGjjP8hgw?si=9Kv4PFGqTcaJnzpoJKLjRA)   
+📻 - Listen to my music project [here](https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg?si=aIXvB8WmTrK4qYvgJTJ5Xw)   
 
 📫 - Send me an email at diegoguerreroalexander@gmail.com
 
