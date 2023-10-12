@@ -2,18 +2,11 @@
 
 
 I work at the intersection between design and development. 
-My favorite area is working with music in one way or another.
+I love working with music in one way or another.
 
-👨‍💻  - I am currently diving deep into all the possiblities of Next.js with Shopify and Sanity
-
-⚡ Fun facts:
-   * I am an artist/producer/composer, and I put out music as dieglitter
-   * I love Stereolab
-   * I have a cat
-   * I am a runner
+👨‍💻  - I am currently diving deep into all the possibilities of Next.js with Shopify and Sanity
    
-   
-📻 - Listen to my music project [here](https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg?si=aIXvB8WmTrK4qYvgJTJ5Xw)   
+📻 - Listen to my music [here](https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg?si=aIXvB8WmTrK4qYvgJTJ5Xw)   
 
 📫 - Send me an email at diegoguerreroalexander@gmail.com
 
